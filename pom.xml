@@ -52,6 +52,7 @@
                     <configuration>
                         <!--suppress UnresolvedMavenProperty -->
                         <mainClass>${main}</mainClass>
+                        <!-- example: mvn javafx:run -Dmain="les09.twitter.TwitterApp" -->
                     </configuration>
                 </plugin>
             </plugins>
