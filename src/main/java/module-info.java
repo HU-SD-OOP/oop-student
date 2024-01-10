@@ -1,4 +1,4 @@
-module oop.hotelapp.client {
+module oop {
     requires javafx.controls;
     requires javafx.fxml;
 
